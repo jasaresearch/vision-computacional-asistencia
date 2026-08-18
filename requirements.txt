@@ -1,0 +1,18 @@
+# Dependencias del Sistema de Asistencia con Reconocimiento Facial
+# Para instalar: pip install -r requirements.txt
+
+# Procesamiento de video y visión por computadora
+opencv-python==4.10.0.84
+
+# MediaPipe para detección facial (IMPORTANTE: versión 0.10.14)
+# La versión 1.x NO funciona con este código
+mediapipe==0.10.14
+
+# Cálculos matemáticos
+numpy==1.26.4
+
+# Manejo de datos CSV (opcional pero útil)
+pandas==2.2.2
+
+# Fecha y hora (incluido en Python, no requiere instalación)
+# datetime - módulo estándar

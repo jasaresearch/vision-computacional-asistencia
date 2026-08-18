@@ -1,0 +1,56 @@
+# Entornos virtuales de Python (NO compartir - cada alumno debe crear el suyo)
+venv/
+venv_face/
+.venv/
+.venv312/
+env/
+ENV/
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Archivos temporales
+*.log
+*.tmp
+temp_convert.py
+temp_frame.jpg
+
+# Archivos específicos de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de datos personales (opcional - según necesidad)
+# Attendace.csv  # Descomentar si no quieres compartir registros
+
+# Checkpoints de entrenamiento (si existen)
+training_checkpoints/
+
+# Modelos grandes (si existen)
+*.h5
+*.weights.h5
+*.keras
+
+# Archivos compilados
+*.exe
+*.dll
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos de backup
+*.bak
+*.backup
