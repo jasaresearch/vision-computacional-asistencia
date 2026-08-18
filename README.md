@@ -159,9 +159,9 @@ imagenesControlAsistencia/
 
 ## 👨‍🏫 Contacto
 
-Profesor: [Tu nombre]  
+Profesor: Jose Antonio Solano  
 Curso: Visión Computacional  
-Universidad: [Tu universidad]
+Universidad: Universidad de Antioquia
 
 ## 📄 Licencia
 
